@@ -1,0 +1,41 @@
+div{
+color: darkolivegreen;
+border: 15px solid chocolate;
+border-radius: 55px;
+}
+
+h1{
+color: goldenrod;
+border: 15px solid navy;
+border-radius: 55px;
+}
+
+header{
+color: darkcyan;
+border: 15px solid indigo;
+border-radius: 55px;
+}
+
+input[type="text"]{
+  color: lightcoral;
+  border: 15px solid cyan;
+  border-radius: 55px;
+}
+
+input[type="submit"]{
+  color: lightsteelblue;
+  border: 15px solid teal;
+  border-radius: 55px;
+}
+
+label{
+  color: fuchsia;
+  border: 15px solid crimson;
+  border-radius: 55px;
+}
+
+body{
+background-color: darkred;
+border: 20px solid royalblue;
+border-radius: 55px;
+}
